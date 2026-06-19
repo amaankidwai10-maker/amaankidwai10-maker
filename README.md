@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on turning raw data into stories that actually mean something<br>🤝 I’m looking to collaborate on anything data, if there's a dataset involved, I'm interested<br>🌱 I’m currently learning Python, and honestly it's going better than expected<br>💬 Ask me about why British Airways passengers are so angry, or why your best employees keep quitting<br>⚡ Fun fact I predicted who would quit their job before their manager even noticed 88% of the time
 
 
